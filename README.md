@@ -71,7 +71,7 @@ Instead of relying only on traditional resumes, SkillProof PH envisions a platfo
 
 <br/><br/>
 
-<img src="images/How it works #2.PNG" width="90%" alt="SkillProof PH workflow overview" />
+<img src="images/How it works2.PNG" width="90%" alt="SkillProof PH workflow overview" />
 
 </div>
 
