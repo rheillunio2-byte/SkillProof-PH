@@ -1,215 +1,242 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:071426,50:2563EB,100:7C3AED&text=Contributing%20to%20SkillProof%20PH&fontColor=FFFFFF&fontSize=32&fontAlignY=48&animation=fadeIn" width="100%" />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0F172A,50:2563EB,100:7C3AED&text=Contributing&fontColor=FFFFFF&fontSize=52&fontAlignY=50&animation=fadeIn&stroke=38BDF8&strokeWidth=2" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Every+contribution+makes+a+difference.;Let's+build+something+meaningful+together." alt="Typing SVG" />
+
+**Thank you for your interest in contributing to SkillProof PH!**
 
 </div>
 
-# 🤝 Contributing to SkillProof PH
+---
 
-Thank you for your interest in contributing to **SkillProof PH**!
+## 📌 Introduction
 
-SkillProof PH aims to help Filipinos showcase, validate, and strengthen their skills through accessible assessments and digital credentials.
+SkillProof PH welcomes contributions, ideas, suggestions, and feedback that can help improve the project.
 
-Contributions that improve the project's clarity, usability, accessibility, visual presentation, and overall direction are welcome.
+Whether you are a developer, designer, student, or someone interested in the concept, your input is appreciated.
 
-This repository currently contains project documentation and visual materials. Contribution steps below are focused on those materials and project feedback. If the application source code is added later, these guidelines can be expanded.
+This guide explains how you can participate and contribute to the project.
 
 ---
 
-## 📌 Table of Contents
+## 🌟 Ways to Contribute
 
-1. Ways to Contribute
-2. Getting Started
-3. Contribution Guidelines
-4. Screenshot and Asset Guidelines
-5. Reporting Issues
-6. Suggesting Improvements
-7. Submitting a Pull Request
-8. Code of Conduct
-9. License
+You can contribute in several ways:
 
----
-
-## 🌱 1. Ways to Contribute
-
-### 📝 Documentation
-- Improve explanations of the platform and its intended features.
-- Fix spelling, grammar, broken links, or formatting.
-- Make project information clearer.
-
-### 🎨 Design and User Experience
-- Suggest improvements to page layouts, navigation, readability, and accessibility.
-- Share feedback on the experience for individuals, employers, and institutions.
-- Recommend ways to make the platform easier to understand and use.
-
-### 🖼️ Visual Materials
-- Suggest updated screenshots or visual examples.
-- Improve image quality and consistency.
-- Help ensure screenshots accurately represent the current project.
-
-### 💡 Ideas and Feedback
-- Suggest useful features related to skills validation.
-- Identify confusing workflows or missing information.
-- Share feedback about the needs of Filipino learners, employers, and institutions.
+- **Bug Reports:** Report errors, broken elements, or unexpected behavior.
+- **Feature Suggestions:** Recommend useful features and improvements.
+- **UI/UX Improvements:** Suggest better layouts, accessibility improvements, and user experiences.
+- **Documentation:** Improve explanations, instructions, and project documentation.
+- **Code Contributions:** Help develop and improve the platform as source code becomes available.
+- **Feedback:** Share your thoughts about the platform's concept and direction.
 
 ---
 
-## 🚀 2. Getting Started
+## 🚀 Getting Started
 
-### Step 1: Fork the repository
+Before contributing, make sure you have:
 
-Click **Fork** at the top of the [SkillProof PH repository](https://github.com/rheillunio2-byte/SkillProof-PH).
+- A GitHub account.
+- Git installed on your computer.
+- A code editor such as Visual Studio Code.
+- Basic familiarity with Git and GitHub.
 
-### Step 2: Clone your fork
+### 1. Fork the Repository
 
-Replace `YOUR-USERNAME` with your GitHub username.
+Fork the SkillProof PH repository to your own GitHub account.
+
+### 2. Clone Your Fork
+
+Open your terminal and run:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/SkillProof-PH.git
+```
+
+Navigate to the project folder:
+
+```bash
 cd SkillProof-PH
 ```
 
-### Step 3: Create a branch
+### 3. Create a Branch
 
-Use a short, descriptive branch name.
+Create a separate branch for your contribution:
+
+```bash
+git checkout -b feature/your-feature-name
+```
+
+For example:
 
 ```bash
 git checkout -b docs/improve-readme
 ```
 
-Other examples:
+### 4. Make Your Changes
+
+Work on your selected improvement. Keep your changes focused and make sure they follow the project's guidelines.
+
+### 5. Commit Your Changes
+
+Use a clear and descriptive commit message:
 
 ```bash
-git checkout -b design/update-screenshots
-git checkout -b idea/employer-feedback
-git checkout -b fix/documentation-links
-```
-
-### Step 4: Make your changes
-
-Keep changes focused and relevant to SkillProof PH. Review the updated files before committing.
-
----
-
-## 📐 3. Contribution Guidelines
-
-Please follow these principles:
-
-1. **Keep it relevant.** Contributions should support SkillProof PH and its goals.
-2. **Be clear.** Use straightforward language.
-3. **Be accurate.** Do not describe proposed features as completed or available unless they have actually been implemented.
-4. **Respect the audience.** Consider learners, job seekers, employers, and educational institutions in the Philippines.
-5. **Prioritize accessibility.** Recommend readable text, clear navigation, sufficient contrast, and inclusive language.
-6. **Preserve consistency.** Follow the existing visual identity unless proposing a deliberate improvement.
-7. **Avoid unnecessary files.** Only include assets and files relevant to your contribution.
-8. **Respect privacy.** Do not upload personal information, private records, or identifiable user data.
-9. **Use properly licensed assets.** Only submit images, icons, fonts, and other materials you have permission to use.
-10. **Explain your changes.** Include a short summary of what you changed and why.
-
----
-
-## 🖼️ 4. Screenshot and Asset Guidelines
-
-When adding or replacing screenshots:
-
-- Place project screenshots in the `images/` directory.
-- Use descriptive filenames.
-- Keep image quality high enough for details to remain readable.
-- Avoid unnecessary cropping.
-- Make sure screenshots represent the current project.
-- Do not include passwords, API keys, private information, or real personal records.
-- Update image references in `README.md` whenever a filename changes.
-
-Use consistent capitalization and spelling in filenames. If a filename contains spaces or special characters, make sure its Markdown image link points to the exact filename.
-
----
-
-## 🐛 5. Reporting Issues
-
-If you find a problem, open an issue in the [GitHub Issues section](https://github.com/rheillunio2-byte/SkillProof-PH/issues).
-
-When reporting an issue, include:
-
-- **Title:** A short and specific summary.
-- **Description:** What you noticed and why it is a problem.
-- **Steps to Reproduce:** The steps needed to see the issue, if applicable.
-- **Expected Result:** What you expected to happen.
-- **Actual Result:** What happened instead.
-- **Screenshots:** Attach images when they help explain the issue.
-
-Please check existing issues first to avoid submitting duplicates.
-
----
-
-## 💡 6. Suggesting Improvements
-
-Before suggesting a new feature or major change:
-
-1. Check whether a similar suggestion already exists.
-2. Explain the problem or need behind your idea.
-3. Describe the people who would benefit from it.
-4. Explain how it could improve skills validation, learning, or the connection between talent and opportunity.
-5. Include a simple example or visual reference when useful.
-
-Suggestions are welcome, but they may be reviewed and refined before becoming part of the project.
-
----
-
-## 🔀 7. Submitting a Pull Request
-
-When your changes are ready:
-
-```bash
-git status
 git add .
-git commit -m "docs: improve SkillProof PH overview"
-git push origin docs/improve-readme
+git commit -m "docs: improve project documentation"
 ```
 
-Then:
+### 6. Push Your Branch
 
-1. Open your fork on GitHub.
-2. Select **Compare & pull request**.
-3. Set the base repository to `rheillunio2-byte/SkillProof-PH`.
-4. Set the base branch to `main`.
-5. Explain your changes and submit the pull request.
+```bash
+git push origin feature/your-feature-name
+```
 
-### Pull Request Checklist
+### 7. Submit a Pull Request
 
-- [ ] My contribution is relevant to SkillProof PH.
-- [ ] I reviewed my changes for spelling and formatting.
-- [ ] All links and image paths work.
-- [ ] New screenshots are placed in the correct folder.
-- [ ] No private information or secrets are included.
-- [ ] I have described what changed and why.
-- [ ] My changes do not misrepresent the project's current status.
+Go to your fork on GitHub and create a Pull Request to the original repository.
+
+Provide a short explanation of your changes and why they should be included.
 
 ---
 
-## 💬 8. Code of Conduct
+## 📏 Contribution Guidelines
 
-Everyone participating in this project is expected to be respectful and constructive.
+To keep the project organized, please follow these guidelines:
 
-- Be welcoming to contributors of all experience levels.
-- Give feedback politely and focus on the work, not the person.
-- Be open to suggestions and reasonable revisions.
-- Avoid harassment, discrimination, personal attacks, and inappropriate language.
-- Help keep discussions focused on improving the project.
+### General Guidelines
+
+- Keep contributions relevant to SkillProof PH.
+- Write clear and understandable documentation.
+- Avoid unnecessary changes to unrelated files.
+- Check your work before submitting.
+- Be respectful when discussing ideas and reviewing contributions.
+- Do not submit copied or unauthorized content.
+
+### Code Guidelines
+
+As development progresses, contributors should:
+
+- Use meaningful variable and function names.
+- Keep code organized and readable.
+- Follow the conventions of the language or framework being used.
+- Avoid unnecessary dependencies.
+- Add comments when they help explain complex logic.
+- Test changes before submitting a Pull Request.
+
+### Documentation Guidelines
+
+When editing documentation:
+
+- Use clear and simple language.
+- Keep headings and formatting consistent.
+- Verify that links work.
+- Use accurate descriptions of implemented features.
+- Keep screenshots and image paths updated.
+
+### Screenshot and Asset Guidelines
+
+If you contribute screenshots or visual assets:
+
+- Place relevant images inside the `images/` directory when appropriate.
+- Use descriptive filenames.
+- Make sure images are clear and relevant.
+- Avoid uploading unnecessarily large files.
+- Ensure you have permission to use submitted assets.
 
 ---
 
-## 📄 9. License
+## 🐛 Reporting Bugs
 
-By contributing to this repository, you agree that your contributions will be made available under the project's [MIT License](LICENSE), subject to its terms.
+If you encounter a bug or problem, please open a GitHub Issue.
 
-Copyright © 2026 Rheil Evans Lunio.
+Include the following information when possible:
+
+1. **Title:** A short description of the problem.
+2. **Description:** Explain what happened.
+3. **Steps to Reproduce:** Provide the steps needed to encounter the issue.
+4. **Expected Behavior:** Describe what should have happened.
+5. **Actual Behavior:** Describe what happened instead.
+6. **Screenshots:** Attach screenshots if they help explain the problem.
+
+---
+
+## 💡 Suggesting Improvements
+
+Have an idea that could make SkillProof PH better?
+
+We welcome suggestions involving:
+
+- New platform features.
+- Better user experiences.
+- Improved skill presentation and verification.
+- Employer and institutional workflows.
+- Accessibility and usability.
+- Performance and security.
+
+Please open a GitHub Issue and clearly explain your suggestion.
+
+---
+
+## 🔀 Pull Request Guidelines
+
+Before submitting a Pull Request, make sure that:
+
+- Your changes are relevant to the project.
+- You have checked your work for errors.
+- Your commit messages are descriptive.
+- You have updated documentation when necessary.
+- You have explained your changes in the Pull Request.
+- Your contribution does not introduce unrelated changes.
+
+A clear Pull Request helps make the review process easier for everyone.
+
+---
+
+## 🔐 Security
+
+If you discover a potential security vulnerability, avoid publicly sharing sensitive technical details.
+
+Report the issue privately to the project maintainer through an appropriate GitHub contact channel.
+
+Do not include passwords, API keys, tokens, or other confidential information in commits or issues.
+
+---
+
+## 🤝 Code of Conduct
+
+We want SkillProof PH to be a welcoming and respectful project for everyone.
+
+All contributors are expected to:
+
+- Treat others with respect.
+- Welcome constructive feedback.
+- Respect different opinions and perspectives.
+- Avoid harassment, discrimination, and offensive behavior.
+- Keep discussions professional and productive.
+
+Contributions should help create a positive and collaborative environment.
+
+---
+
+## 📄 License
+
+By contributing to SkillProof PH, you agree that your contributions will be licensed under the project's **MIT License**.
+
+Please make sure that any code, images, or other materials you submit are your own or that you have permission to contribute them.
 
 ---
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%" />
+
 **Thank you for helping improve SkillProof PH!**
 
-*Prove your skills. Unlock your potential.*
+<sub>Built through collaboration, creativity, and continuous improvement.</sub>
 
 </div>
+
