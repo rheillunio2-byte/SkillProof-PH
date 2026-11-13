@@ -63,6 +63,28 @@ Instead of relying only on traditional resumes, SkillProof PH envisions a platfo
 
 ---
 
+## 🔐 Trust, Verification & Privacy
+
+SkillProof PH aims to establish a trustworthy environment where individuals can present their skills and credentials while allowing organizations to evaluate qualifications responsibly.
+
+### Verification Principles
+
+- **Evidence-Based Credentials:** Skills and qualifications should be supported by relevant documents, certificates, portfolios, or other forms of evidence.
+- **Transparent Verification:** Verification status should clearly indicate whether a credential is pending, verified, rejected, or requires further review.
+- **Source Accountability:** Whenever possible, credentials should be traceable to their issuing institutions or authorized organizations.
+- **User Control:** Individuals should have control over the information they choose to include in their professional profiles.
+
+### Privacy & Data Protection
+
+- Protect personal information and sensitive documents.
+- Limit access to credentials based on authorized permissions.
+- Avoid exposing private user information without consent.
+- Apply appropriate security measures when storing and handling personal data.
+
+*These principles represent the project's intended direction and are not claims of currently implemented security or verification functionality.*
+
+---
+
 ## ⚙️ How It Works
 
 <div align="center">
