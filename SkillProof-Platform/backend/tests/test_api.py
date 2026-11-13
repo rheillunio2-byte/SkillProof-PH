@@ -55,6 +55,17 @@ def test_server_side_grading_and_credential(client):
     assert body["score"] == 100 and body["passed"] and body["credential"]["credential_id"].startswith("SP-")
     verify = client.get(f"/api/credentials/{body['credential']['credential_id']}/verify")
     assert verify.status_code == 200 and verify.json()["valid"] is True
+
+    # Test that lowercase credential IDs are accepted.
+    lowercase_id = body["credential"]["credential_id"].lower()
+    lowercase_verify = client.get(f"/api/credentials/{lowercase_id}/verify")
+    assert lowercase_verify.status_code == 200
+    assert lowercase_verify.json()["valid"] is True
+
+    # Test that unknown credential IDs return 404.
+    missing_verify = client.get("/api/credentials/SP-9999-UNKNOWN/verify")
+    assert missing_verify.status_code == 404
+    
     # a client cannot choose its own score
     forged = client.post("/api/attempts", headers=h, json={"challenge_id": 3, "answers": [0, 0, 0, 0], "score": 100})
     assert forged.json()["score"] < 100
