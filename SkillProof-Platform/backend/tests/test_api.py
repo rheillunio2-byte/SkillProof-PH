@@ -104,3 +104,8 @@ def test_shortlist_and_students(client):
     assert client.delete(f"/api/shortlists/{cid}", headers=emp).status_code == 204
     inst = login(client, "admin@northstar.demo")
     assert client.get("/api/students", headers=inst).json()["summary"]["learners"] >= 3
+
+def test_unknown_credential_returns_clear_error(client):
+    response = client.get("/api/credentials/INVALID-ID/verify")
+    assert response.status_code == 404
+    assert response.json()["detail"] == "No matching credential record exists."
