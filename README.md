@@ -235,15 +235,46 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Project Developers & Collaborators
 
 <div align="center">
 
-**Developed by RETL**
+### Built through collaboration
 
-Rheil Evans Lunio
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rheillunio2-byte">
+        <img src="https://github.com/rheillunio2-byte.png" width="100px;" alt="Rheil Evans Lunio"/>
+        <br />
+        <b>Rheil Evans Lunio</b>
+      </a>
+      <br />
+      <sub>Project Developer & Lead</sub>
+      <br />
+      <sub>RETL</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/joshuaarao42-arch">
+        <img src="https://github.com/joshuaarao42-arch.png" width="100px;" alt="Joshua Arao"/>
+        <br />
+        <b>Joshua Arao</b>
+      </a>
+      <br />
+      <sub>Project Collaborator & Co-Developer</sub>
+    </td>
+  </tr>
+</table>
 
-[![GitHub](https://img.shields.io/badge/GitHub-rheillunio2--byte-181717?style=for-the-badge&logo=github)](https://github.com/rheillunio2-byte)
+**SkillProof PH** is built through shared ideas, technical contributions, and collaboration.
+
+</div>
+
+---
+
+<div align="center">
+
+**Two developers. One vision. Better opportunities through verified skills.**
 
 </div>
 
