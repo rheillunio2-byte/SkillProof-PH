@@ -235,50 +235,68 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## 👨‍💻 Project Developers & Collaborators
+## 👨‍💻 Meet the Minds Behind SkillProof PH
 
 <div align="center">
 
-### Built through collaboration
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:7C3AED&height=3&section=header" width="100%"/>
+
+### 🚀 Driven by Ideas. Built Through Collaboration.
+
+*Behind every great project is a team of people who turn ideas into reality.*
+
+<br/>
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/rheillunio2-byte">
-        <img src="https://github.com/rheillunio2-byte.png" width="100px;" alt="Rheil Evans Lunio"/>
-        <br />
-        <b>Rheil Evans Lunio</b>
+        <img src="https://github.com/rheillunio2-byte.png" width="130px" style="border-radius:50%;" alt="Rheil Evans Lunio"/>
       </a>
-      <br />
-      <sub>Project Developer & Lead</sub>
-      <br />
-      <sub>RETL</sub>
+      <br/><br/>
+      <strong><a href="https://github.com/rheillunio2-byte">Rheil Evans Lunio</a></strong>
+      <br/>
+      <sub>👑 Project Lead & Lead Developer</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/ROLE-LEAD%20DEVELOPER-2563EB?style=for-the-badge&labelColor=0F172A"/>
+      <br/><br/>
+      <sub>Vision, architecture, development, and project direction.</sub>
+      <br/>
+      <sub><b>RETL</b></sub>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/joshuaarao42-arch">
-        <img src="https://github.com/joshuaarao42-arch.png" width="100px;" alt="Joshua Arao"/>
-        <br />
-        <b>Joshua Arao</b>
+        <img src="https://github.com/joshuaarao42-arch.png" width="130px" style="border-radius:50%;" alt="Joshua Arao"/>
       </a>
-      <br />
-      <sub>Project Collaborator & Co-Developer</sub>
+      <br/><br/>
+      <strong><a href="https://github.com/joshuaarao42-arch">Joshua Arao</a></strong>
+      <br/>
+      <sub>🤝 Co-Developer & Project Collaborator</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/ROLE-CO--DEVELOPER-7C3AED?style=for-the-badge&labelColor=0F172A"/>
+      <br/><br/>
+      <sub>Shared ideas, technical contributions, and collaborative development.</sub>
     </td>
   </tr>
 </table>
 
-**SkillProof PH** is built through shared ideas, technical contributions, and collaboration.
+<br/>
+
+### 💡 One Vision. Shared Innovation.
+
+**SkillProof PH** is more than just a project. It is a collaborative effort to create meaningful opportunities by making skills more visible, credible, and accessible.
+
+Every idea, contribution, and line of code brings us closer to that vision.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:0F172A&height=3&section=footer" width="100%"/>
+
+**BUILT WITH PURPOSE. DEVELOPED TO MAKE A DIFFERENCE.** 
+
+<sub>© 2026 SkillProof PH | Made with 💙 by the development team</sub>
 
 </div>
-
----
-
-<div align="center">
-
-**Two developers. One vision. Better opportunities through verified skills.**
-
-</div>
-
----
 
 <div align="center">
 
